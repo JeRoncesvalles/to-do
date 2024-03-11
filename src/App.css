@@ -1,0 +1,48 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  width: 400px;
+  text-justify: inter-word;
+  text-align: justify;
+}
+li {
+  margin-bottom: 15px;
+  font-size: small;
+}
+input {
+  margin-right: 20px;
+  width:420px;
+  height: 27px;
+  padding-left: 15px;
+  outline: none;
+}
+h1 {
+
+}
+.BT {
+ background-color: rgb(60, 11, 145);
+ border: 1px solid rgb(40, 11, 201);
+
+}
+.BT:hover {
+  background-color: rgba(65, 26, 184, 0.285);
+  border: 1px solid rgba(65, 18, 255, 0.289);
+
+ }
+
+.BTN {
+  position: relative;
+  margin-top: 9px;
+  left: 322px;
+  background-color: rgb(168, 36, 19);
+}
+.BTN:hover {
+  background-color: rgba(140, 51, 13, 0.285);
+  border: 1px solid rgba(140, 58, 20, 0.289);
+
+ }
